@@ -15,9 +15,7 @@ Puedes disfrutar del SudokuYG en los siguientes enlaces:
 
 ¡Diviértete resolviendo los desafiantes rompecabezas de Sudoku!
 
-## Capturas de Pantalla
 
-_Inserta capturas de pantalla aquí si lo deseas._
 
 ## Instrucciones de Juego
 
@@ -31,10 +29,5 @@ _Inserta capturas de pantalla aquí si lo deseas._
 
 Siéntete libre de explorar el código fuente disponible en este repositorio. Si tienes sugerencias de mejora o te gustaría contribuir, ¡eres bienvenido!
 
-## Problemas Conocidos
-
-_Lista de problemas conocidos, si los hay._
-
----
 
 _Disclaimer: Este juego de Sudoku es una creación personal de Geovanni Garcia con propósitos educativos y de entretenimiento. No hay garantía de que sea libre de errores. Si encuentras algún problema, por favor, [informa aquí](enlace al sistema de problemas o issues)._
